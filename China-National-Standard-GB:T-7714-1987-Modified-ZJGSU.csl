@@ -234,7 +234,7 @@
     <layout delimiter="; ">
       <group delimiter=", ">
         <group delimiter="">
-          <text suffix="(" macro="author-short"/>
+          <text suffix=" (" macro="author-short"/>
           <text suffix=")" macro="year-date"/>
         </group>
         <text macro="locator"/>
